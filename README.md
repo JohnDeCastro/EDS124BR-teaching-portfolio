@@ -11,3 +11,5 @@
 - "Mouse Nested Repeats" link: https://youtu.be/wOeNXn0iDbI
 
 - "Monkey + Banana Broadcast Game" link: https://youtu.be/QW4nsYcJMcw
+
+- "Variables" link: https://youtu.be/fKL-mk-JbAE
