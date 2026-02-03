@@ -1,6 +1,8 @@
 # EDS124BR Teaching Portfolio
 
-## Explain Your Program Series:
+- Interactive Parsons' Problem Repeats Demo Video: https://youtu.be/8oEGV2YC1xA
+
+## 'Explain Your Program' Video Series:
 
 - "Explain Your Program" link: https://youtube.com/shorts/bhGhkbPKB7I
 
@@ -13,3 +15,5 @@
 - "Monkey + Banana Broadcast Game" link: https://youtu.be/QW4nsYcJMcw
 
 - "Variables" link: https://youtu.be/fKL-mk-JbAE
+
+  
