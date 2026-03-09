@@ -23,4 +23,5 @@
 - "Nested If-Else" link: https://youtu.be/0jM_nqJpBGM
 
 - "Compound Conditionals" link: https://youtu.be/djgQASrdDOQ
-  
+
+- "Abstraction" link: https://youtu.be/qRZHdfGxdu4
