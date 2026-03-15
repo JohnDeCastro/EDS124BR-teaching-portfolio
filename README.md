@@ -25,3 +25,5 @@
 - "Compound Conditionals" link: https://youtu.be/djgQASrdDOQ
 
 - "Abstraction" link: https://youtu.be/qRZHdfGxdu4
+
+- "Lists" link: https://youtu.be/0feAvSxAmy0
